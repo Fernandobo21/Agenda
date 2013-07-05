@@ -2,8 +2,29 @@ Hemos desarrollado para la facilidad laboral esta agenda comercial.
 
 Este complemento a el CRM de su organizacion le permitira manejar con facilidad todas sus actividades aplicando metodologias novedosas.
 
+Con el menu de creacion de actividad usted podra, clickando en la fecha que desee y completando unos datos basicos, crear una nueva actividad de cualquier tipo permitida por CRM.
+Si desea agregar mas datos de los que predispone el formulario de simple, tiene el acceso al fomrulario completo normal de CRM sin salir de la Agenda.
+
+-Filtre los elementos a Mostrar:
+Dentro de los filtros tiene disponible todas las opciones de actividades para filtrar y solo lo mas importante en el calendario.
+
+-Multinavegador:
+Utililce la agenda comercial desde cualquier navegador HTML de escritorio. (Nota: Safari no aplica por que CRM no es compatible con este navegador)
+
+-Agenda comercial en Ventana nueva:
+Tiene la opcion tambien de utilizar su agenda comercial externamente al CRM, solo necesita validarse con su usuario y podra utilizarla sin problemas con todas sus funcionalidades.
+
+-Actualizacion al instante: 
 Actualize de manera rapida y sencilla todas sus actividades mediante la metodologia conocida como "Drag and Drop". Con esta metodologia usted podra coger cualquier actividad que tenga pendiente y desplazarla directamente a la fecha en la que quiera que se actualice.
 
-Con el menu simple de creacion de actividad usted podra, clickando en una fecha en particular y seleccionando algunos datos basicos, crear una nueva actividad de cualquier tipo.
-Si desea agregar mas datos de los que predispone el formulario de simple, tiene el acceso al fomrulario completo normal de CRM. 
+-Agenda laboral:
+Ademas de las vistas comunes (Mensual, Semanal y Diaria), hemos diseñado una vista "Laboral" en la cual tendra todas las actividades para el dia actual, las actividades para el dia siguiente y todas las actividades que tenga desde el dia actual hasta 2 semanas posteriores.
 
+-Economico:
+La agenda comercial para CRM mas economica del mercado, compruebelo usted mismo.
+
+-Velocidad:
+Utilizando ultimas tecnologias informaticas no tendra que esperar hasta que se despleguen sus actividades y ordenarlas en el calendario.
+
+-Soporte:
+Disponibilizamos soporte ante cualquier incidencia del producto, mediante un gestor de incidencias para que un tecnico pueda resolverlo.
