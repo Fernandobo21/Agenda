@@ -1,0 +1,3 @@
+Para el Customizations.xml:
+
+<SubArea Id="nav_agenda" Title="Agenda" Icon="/_imgs/area/18_calendar.gif" Url="/WebResources/new_HTML_Agenda" Client="Web" />
